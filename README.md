@@ -6,7 +6,7 @@
 <h4 align="center">
   <b> ( CE Student | Junior Full-Stack Developer | Cybersecurity ) </b> 
 </h4>
-<br>
+<hr>
 
 <h4>Technical Skills</h4>
 <h4>Languajes:</h4>
