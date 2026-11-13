@@ -4,5 +4,5 @@
 </h1>
     
 <h4 align="center">
-  <b> CE Student | Backend Developer | Data Science | Electronics </b> 
+  <b> ( CE Student | Junior Full-Stack Developer | Data Science | Electronics ) </b> 
 </h4>
