@@ -8,7 +8,7 @@
 </h4>
 <hr>
 
-<h4>Technical Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnliYzN4cWgxbDVodmw0OWxzYnExcG1lbnV6enUxNmdmcGIxMXhmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aZjXR25WR3oMfvv1qq/giphy.gif" width"30"> </h4>
+<h4>⌞ Technical Skills ⌝</h4>
 
 <h4>Languajes:</h4>
 <span>
